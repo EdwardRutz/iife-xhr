@@ -1,14 +1,7 @@
 #README
 
-------------------------
-## SET-UP .GITIGNORE
-- [X] .gitignore added.
-- [ ] Run in terminal:  
-	git config --global core.excludesfile ~/.gitignore_global
-- [ ] Delete .gitignore section from README.md
-------------------------
 
-# IIFE, XHRs and Callbacks, Oh My
+## IIFE, XHRs and Callbacks, Oh My
 https://github.com/nashville-software-school/front-end-milestones/edit/master/2-single-page-applications/exercises/SP_JS_XHR_MIND_MELTING.md
 
 ## Requirements
