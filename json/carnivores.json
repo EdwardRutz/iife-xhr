@@ -1,0 +1,5 @@
+console.log("carnivores.json active");
+
+{
+ "carnivores" : ["lions," "tigers", "bears"]
+}
